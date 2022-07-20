@@ -1,0 +1,23 @@
+{
+  "name": "design-pattern-gof",
+  "version": "1.0.0",
+  "description": "Based on book 'Design Patterns: Elements of Reusable Object-Oriented Software'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegosantosouza/design-pattern-GOF.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegosantosouza/design-pattern-GOF/issues"
+  },
+  "homepage": "https://github.com/diegosantosouza/design-pattern-GOF#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
